@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='twitterGif2.gif' title='Video Walkthrough' width='' alt='Video Walkthr$
+<img src='twitterGif2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
 
 **Name of your app** is a basic twitter app to read your tweets.
